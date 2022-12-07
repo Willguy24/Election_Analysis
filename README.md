@@ -6,7 +6,7 @@
 The Election Analysis project was made to help Seth and Tom make sense of data that was taken from a recent Colorado election. They were provided with Ballot ID, County, and the Candidate for each vote that had been cast. The data needed to be sorted and made sense of, with the methods chosen to analyze the data this is what we were able to find.
 
 ## Election Audit Results
-###How many votes were cast in this congressional election?
+### How many votes were cast in this congressional election?
 - 369,711
 ### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 -Jefferson: 10.5% (38,855)
